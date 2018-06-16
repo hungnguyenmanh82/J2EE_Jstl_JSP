@@ -18,6 +18,8 @@
 	<a href="${pageContext.request.contextPath}/if"> jstl: if</a>
 	<br />
 	<a href="${pageContext.request.contextPath}/url"> jstl: url</a>
+	<br />
+	<a href="${pageContext.request.contextPath}/include"> jstl: include</a>
 </body>
 
 </html>
