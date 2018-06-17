@@ -9,7 +9,9 @@
 </head>
 <body>
 	<h1> JSP: include </h1>
-
+	<a href="${pageContext.request.contextPath}/">Home</a>
+	<br />
+	<br />
 	<div style="background-color: green;">
 	      <jsp:include page= "${pageContext.request.contextPath}/include"/>
 	</div>
